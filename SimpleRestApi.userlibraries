@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.google.code.gson:gson:2.8.2">
+    <archive path="C:/Users/Mato/.m2/repository/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar" />
+  </library>
+  <library name="Maven: com.squareup.okhttp3:okhttp:3.10.0">
+    <archive path="C:/Users/Mato/.m2/repository/com/squareup/okhttp3/okhttp/3.10.0/okhttp-3.10.0.jar" />
+  </library>
+  <library name="Maven: com.squareup.okio:okio:1.14.0">
+    <archive path="C:/Users/Mato/.m2/repository/com/squareup/okio/okio/1.14.0/okio-1.14.0.jar" />
+  </library>
+  <library name="Maven: com.squareup.retrofit2:converter-gson:2.4.0">
+    <archive path="C:/Users/Mato/.m2/repository/com/squareup/retrofit2/converter-gson/2.4.0/converter-gson-2.4.0.jar" />
+  </library>
+  <library name="Maven: com.squareup.retrofit2:retrofit:2.4.0">
+    <archive path="C:/Users/Mato/.m2/repository/com/squareup/retrofit2/retrofit/2.4.0/retrofit-2.4.0.jar" />
+  </library>
+  <library name="Maven: junit:junit:3.8.1">
+    <archive path="C:/Users/Mato/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.7">
+    <archive path="C:/Users/Mato/.m2/repository/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar" />
+  </library>
+</eclipse-userlibraries>
+
